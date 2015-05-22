@@ -1,0 +1,40 @@
+p
+{
+text-align: center;
+}
+
+body
+{font-family: sans-serif;
+background-color: #A9A9A9;
+padding: 20px 10px;
+max-width: 1000px;
+margin: auto;}
+
+h1{text-align: center;
+	background-color: #00FFFF;
+	border-radius: 20px;}
+
+h5{
+	text-align: center;
+}
+
+h2{
+	background-color: #0000FF;
+	border-radius: 20px;
+	padding: 10px 10px;
+}
+
+.intro{
+	font-weight: bold;
+	font-size: 26px;
+	color: red;	}
+
+.repeat{
+	font-weight: bold;
+	font-size: 36px;
+}
+
+h5{
+	font-weight: bold;
+	font-size: 36px;
+}
